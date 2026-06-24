@@ -1,4 +1,4 @@
-# Incubyte Gmail Compose Assignment
+# Gmail Compose Assignment
 
 This repository contains:
 
